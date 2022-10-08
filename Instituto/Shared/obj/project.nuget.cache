@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HLxo/BpGR5plCUXfKsvuvkamRPDXVel2eCp6w+Fg/C9LI+MV3I1FjUkkXwwcfwhT0zy50HNcwikt3Bj+Cad4Cg==",
+  "dgSpecHash": "apr/78tIkp/fLb9h7CwazugDnLlRJoQfMFOD3ZZxTEThsBn68GJpVT7Z6tsPpK46O1N8B1l85E+1S+2MFBP48Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\Shared\\Shared.csproj",
+  "projectFilePath": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\Shared\\Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

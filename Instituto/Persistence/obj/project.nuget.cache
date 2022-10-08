@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RyaIxX0ADL9Lz6mkqm0rFq5qENRH721YVvYDEbO09MTSXYNn55MsuUdD/FeedqLYD/uCwL4tuyLJtZ0btS0yXw==",
+  "dgSpecHash": "j7a04UFxmrT+ooDDxh6KtFnlnjok5d07+l3l+hfSEw/H1yOMMbUUaBjgCh5uK2t4/Gxtu9ZRlGa2T4fpul1KXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dante\\.nuget\\packages\\ardalis.specification\\6.1.0\\ardalis.specification.6.1.0.nupkg.sha512",
     "C:\\Users\\Dante\\.nuget\\packages\\ardalis.specification.entityframeworkcore\\6.1.0\\ardalis.specification.entityframeworkcore.6.1.0.nupkg.sha512",

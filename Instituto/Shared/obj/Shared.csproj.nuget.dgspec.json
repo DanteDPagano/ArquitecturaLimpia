@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\Shared\\Shared.csproj": {}
+    "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\Shared\\Shared.csproj": {
+    "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config",

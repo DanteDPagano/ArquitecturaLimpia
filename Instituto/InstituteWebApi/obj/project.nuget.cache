@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cTpRAJgPzzXNqWksBC1sChvIxBVqywhe8Kc3BpZehseq0JaxAM86r0ofiqc3MIDsefz4ijkkSIA9oqYPpQrqFg==",
+  "dgSpecHash": "5J1qUNrSfhqT51+9rJ0h8+EqUDq0QAKRb71OCPkeD5hekA9JXzrz1DHbnpBZPdPSwOwjOn6Q5SslKCFl0MctlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\InstituteWebApi\\InstituteWebApi.csproj",
+  "projectFilePath": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\InstituteWebApi\\InstituteWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dante\\.nuget\\packages\\ardalis.specification\\6.1.0\\ardalis.specification.6.1.0.nupkg.sha512",
     "C:\\Users\\Dante\\.nuget\\packages\\ardalis.specification.entityframeworkcore\\6.1.0\\ardalis.specification.entityframeworkcore.6.1.0.nupkg.sha512",

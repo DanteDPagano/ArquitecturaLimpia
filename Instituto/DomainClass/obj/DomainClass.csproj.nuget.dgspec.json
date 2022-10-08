@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\DomainClass\\DomainClass.csproj": {}
+    "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\DomainClass\\DomainClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\DomainClass\\DomainClass.csproj": {
+    "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\DomainClass\\DomainClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\DomainClass\\DomainClass.csproj",
+        "projectUniqueName": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\DomainClass\\DomainClass.csproj",
         "projectName": "DomainClass",
-        "projectPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\DomainClass\\DomainClass.csproj",
+        "projectPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\DomainClass\\DomainClass.csproj",
         "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\DomainClass\\obj\\",
+        "outputPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\DomainClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2qMjXOYDB/ZXjKte2QrCjnBUgScgmVnXQDDMmhQhX1glNzOCRjhexdg0tHXUBWqlJIIARfbu/xgSEQi+DjExeg==",
+  "dgSpecHash": "3qVGzE1x4tqbbqFdHChhr+Lqf/8GQvOOIEPTOYY4E8RyXc080/en9LOBF5OI9M+lbLCImyNCib+a8+ajxFIcGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\ApplicatinsServices\\ApplicationsServices.csproj",
+  "projectFilePath": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\ApplicatinsServices\\ApplicationsServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dante\\.nuget\\packages\\ardalis.specification\\6.1.0\\ardalis.specification.6.1.0.nupkg.sha512",
     "C:\\Users\\Dante\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",

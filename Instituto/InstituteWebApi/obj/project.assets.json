@@ -2785,11 +2785,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\InstituteWebApi\\InstituteWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\InstituteWebApi\\InstituteWebApi.csproj",
       "projectName": "InstituteWebApi",
-      "projectPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\InstituteWebApi\\InstituteWebApi.csproj",
+      "projectPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\InstituteWebApi\\InstituteWebApi.csproj",
       "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\InstituteWebApi\\obj\\",
+      "outputPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\InstituteWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2806,11 +2806,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\ApplicatinsServices\\ApplicationsServices.csproj": {
-              "projectPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\ApplicatinsServices\\ApplicationsServices.csproj"
+            "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\ApplicatinsServices\\ApplicationsServices.csproj": {
+              "projectPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\ApplicatinsServices\\ApplicationsServices.csproj"
             },
-            "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\Instituto\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Dante\\source\\OnionArchitecture\\ArquitecturaLimpia\\Instituto\\Persistence\\Persistence.csproj"
             }
           }
         }
