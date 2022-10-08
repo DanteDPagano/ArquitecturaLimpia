@@ -1,0 +1,12 @@
+C:\Users\Dante\source\OnionArchitecture\Instituto\DomainClass\bin\Debug\net6.0\DomainClass.deps.json
+C:\Users\Dante\source\OnionArchitecture\Instituto\DomainClass\bin\Debug\net6.0\DomainClass.dll
+C:\Users\Dante\source\OnionArchitecture\Instituto\DomainClass\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\Dante\source\OnionArchitecture\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.csproj.AssemblyReference.cache
+C:\Users\Dante\source\OnionArchitecture\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dante\source\OnionArchitecture\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.AssemblyInfoInputs.cache
+C:\Users\Dante\source\OnionArchitecture\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.AssemblyInfo.cs
+C:\Users\Dante\source\OnionArchitecture\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\OnionArchitecture\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.dll
+C:\Users\Dante\source\OnionArchitecture\Instituto\DomainClass\obj\Debug\net6.0\refint\DomainClass.dll
+C:\Users\Dante\source\OnionArchitecture\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.pdb
+C:\Users\Dante\source\OnionArchitecture\Instituto\DomainClass\obj\Debug\net6.0\ref\DomainClass.dll

@@ -1,0 +1,15 @@
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\bin\Debug\net6.0\ApplicatinsServices.deps.json
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\bin\Debug\net6.0\ApplicatinsServices.dll
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\bin\Debug\net6.0\ApplicatinsServices.pdb
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\bin\Debug\net6.0\DomainClass.dll
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\obj\Debug\net6.0\ApplicatinsServices.csproj.AssemblyReference.cache
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\obj\Debug\net6.0\ApplicatinsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\obj\Debug\net6.0\ApplicatinsServices.AssemblyInfoInputs.cache
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\obj\Debug\net6.0\ApplicatinsServices.AssemblyInfo.cs
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\obj\Debug\net6.0\ApplicatinsServices.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\obj\Debug\net6.0\ApplicatinsServices.csproj.CopyComplete
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\obj\Debug\net6.0\ApplicatinsServices.dll
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\obj\Debug\net6.0\refint\ApplicatinsServices.dll
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\obj\Debug\net6.0\ApplicatinsServices.pdb
+C:\Users\Dante\source\OnionArchitecture\Instituto\ApplicatinsServices\obj\Debug\net6.0\ref\ApplicatinsServices.dll
