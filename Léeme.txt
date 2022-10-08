@@ -1,0 +1,5 @@
+V1.0
+Recordar Indicar la cadena de conexión en el appsettings.json
+Tener en cuenta qe este ejemplo esta pensado para que en su base de datos tengan una tabla llamada UsersSystem.
+En caso de usar otra entidad, deberán ser creadas en el croyecto DomainClass.
+Hasta aqui este proyecto solo implementa la inserción de regstros.
