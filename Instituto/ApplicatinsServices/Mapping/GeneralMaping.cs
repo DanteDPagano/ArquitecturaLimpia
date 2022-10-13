@@ -1,4 +1,5 @@
 ﻿using ApplicationsServices.Features.Commands.CreateCommands;
+using ApplicationsServices.Features.Commands.UpdateCommands;
 using AutoMapper;
 using DomainClass.Entity;
 

@@ -20,8 +20,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Features\Commands\DeleteCommands\" />
-    <Folder Include="Features\Commands\UpdateCommands\" />
     <Folder Include="Features\Queries\SelectByQueries\" />
     <Folder Include="Features\Queries\SelectAllQueries\" />
     <Folder Include="Filters\" />
