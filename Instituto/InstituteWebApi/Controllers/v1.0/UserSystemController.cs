@@ -1,4 +1,5 @@
 ﻿using ApplicationsServices.Features.Commands.CreateCommands;
+using ApplicationsServices.Features.Commands.DeleteCommands;
 using ApplicationsServices.Features.Commands.UpdateCommands;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -23,7 +24,7 @@ namespace InstituteWebApi.Controllers.v1._0
         [HttpDelete("{id:long}")]
         public async Task<IActionResult> Delete(long id)
         {           
-            return Ok(await Mediator.Send(id));
+            return Ok(await Mediator.Send(new DeleteUserCommand { Id = id }));
         }
     }
 }

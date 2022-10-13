@@ -35,10 +35,11 @@ namespace ApplicationsServices.Features.Commands.DeleteCommands
             else
             { 
                 await _repository.DeleteAsync(register);
+                return new Response<long>(register.Id);
             }
 
 
-            return new Response<long>(register.Id);
+            
         }
     }
 }
