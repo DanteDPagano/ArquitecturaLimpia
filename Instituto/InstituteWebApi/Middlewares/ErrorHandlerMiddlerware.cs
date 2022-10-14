@@ -1,6 +1,7 @@
 ﻿
 using ApplicationsServices.Exceptions;
 using ApplicationsServices.Wrappers;
+using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
 using System.Text.Json;
 
 namespace InstituteWebApi.Middlewares
@@ -23,7 +24,11 @@ namespace InstituteWebApi.Middlewares
             {
                 var response = context.Response;
                 response.ContentType = "application/json";
-                var responseModel = new Response<string>() { Successful = false, Message = err?.Message };
+                var responseModel = new Response<string>();
+
+                responseModel = new Response<string>() { Successful = false, Message = err?.Message };
+                
+                
                 switch (err)
                 {
                     case ApiException e:

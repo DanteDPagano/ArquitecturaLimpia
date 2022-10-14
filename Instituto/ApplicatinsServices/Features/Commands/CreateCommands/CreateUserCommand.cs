@@ -31,7 +31,6 @@ namespace ApplicationsServices.Features.Commands.CreateCommands
 
         public async Task<Response<long>> Handle(CreateUserCommand request, CancellationToken cancellationToken)
         {
-            request.Password = request.Password.Encriptar();
             var newRegister = _mapper.Map<UserSystem>(request);
             var data = await _repository.AddAsync(newRegister);
 

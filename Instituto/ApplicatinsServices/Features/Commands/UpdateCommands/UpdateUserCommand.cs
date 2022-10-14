@@ -1,15 +1,8 @@
-﻿using ApplicationsServices.Exceptions;
-using ApplicationsServices.Interfaces;
+﻿using ApplicationsServices.Interfaces;
 using ApplicationsServices.Wrappers;
 using AutoMapper;
-using DomainClass.Common;
 using DomainClass.Entity;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ApplicationsServices.Features.Commands.UpdateCommands
 {
@@ -49,7 +42,7 @@ namespace ApplicationsServices.Features.Commands.UpdateCommands
                 register.Name = request.Name;
                 register.LastName = request.LastName;
                 register.UserName = request.UserName;
-                register.Password = request.Password.Encriptar();
+                register.Password = request.Password;
                 register.Email = request.Email;
                 register.Mobile = request.Mobile;
                 register.UserRol = request.UserRol;
