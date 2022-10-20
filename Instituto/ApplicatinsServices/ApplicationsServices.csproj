@@ -19,8 +19,4 @@
     <ProjectReference Include="..\DomainClass\DomainClass.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Filters\" />
-  </ItemGroup>
-
 </Project>

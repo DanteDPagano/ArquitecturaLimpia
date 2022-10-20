@@ -2,7 +2,9 @@
 using ApplicationsServices.Features.Commands.CreateCommands;
 using ApplicationsServices.Features.Commands.DeleteCommands;
 using ApplicationsServices.Features.Commands.UpdateCommands;
+using ApplicationsServices.Features.Queries.SelectAllQueries;
 using ApplicationsServices.Features.Queries.SelectByQueries;
+using ApplicationsServices.Filters;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,6 +13,17 @@ namespace InstituteWebApi.Controllers.v1._0
     [ApiVersion("1.0")]
     public class UserSystemController : BaseApiController
     {
+        [HttpGet]
+        public async Task<IActionResult> GetAllUsers([FromQuery] UserResponseFilter filter)
+        {
+            return Ok(await Mediator.Send(new SelectUserQuery { 
+                PageNumber = filter.PageNumber, 
+                PageSize = filter.PageSize, 
+                Name = filter.Name, 
+                LastName = filter.LastName 
+            }));
+        }
+
         [HttpGet("{id:long}")]
         public async Task<IActionResult> GetById(long id)
         {
